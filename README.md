@@ -6,7 +6,6 @@
 ---
 
 ## 🧠 About Me
-- 💻 Passionate about backend development
 - ⚙️ Strong focus on **architecture, organization and scalability**
 - 📚 Currently improving skills in **Spring Security & JWT**
 - 🎯 Goal: Become a professional backend engineer
@@ -46,9 +45,7 @@
 - Validation with Jakarta Validation  
 - PostgreSQL persistence  
 
-🔹 Architecture:
-
-🔹 Concepts Applied:
+🔹 Architecture and Concepts Applied:
 - Layered Architecture  
 - DTO Pattern  
 - Exception Handling (@ControllerAdvice)  
@@ -56,12 +53,6 @@
 
 👉 Check it out:  
 https://github.com/josemariadev12/donation-management-api
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josemariadev12&show_icons=true&theme=radical)
 
 ---
 
