@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hello, I'm José Maria
 
-<!--
-**josemariadev12/josemariadev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer focused on Java and Spring Boot
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- JPA / Hibernate
+- PostgreSQL
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+- 💙 Donation API  
+  REST API with CRUD operations, filtering, validation and database persistence.
+
+---
+
+## 📚 Currently Learning
+- Spring Security
+- JWT Authentication
+- Advanced backend concepts
+
+---
+
+## 📫 Contact
+- LinkedIn: # 👋 Hello, I'm José Maria
+
+💻 Backend Developer focused on Java and Spring Boot
+
+---
+
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- JPA / Hibernate
+- PostgreSQL
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+- 💙 Donation API  
+  REST API with CRUD operations, filtering, validation and database persistence.
+
+---
+
+## 📚 Currently Learning
+- Spring Security
+- JWT Authentication
+- Advanced backend concepts
+
+---
+
+## 📫 Contact
+- LinkedIn: # 👋 Hello, I'm José Maria
+
+💻 Backend Developer focused on Java and Spring Boot
+
+---
+
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- JPA / Hibernate
+- PostgreSQL
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+- 💙 Donation API  
+  REST API with CRUD operations, filtering, validation and database persistence.
+
+---
+
+## 📚 Currently Learning
+- Spring Security
+- JWT Authentication
+- Advanced backend concepts
+
+---
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/josé-maria-8b507b27b
